@@ -1,0 +1,159 @@
+body{
+	
+}
+
+/*header*/
+
+.header {
+	border-bottom: 4px solid black;
+	text-align:center;
+	margin:0 30px;
+}
+
+h1 {
+	font-family:fantasy;
+	font-size:5em;
+	margin:0;
+	padding:20px;
+	margin-top: 80px;
+}
+
+h1 span{
+	color:red;
+	width:100%;
+}
+
+#logo img {
+	width:50%;
+}
+
+#nav-bar ul{
+	list-style:none;
+}
+
+#nav-bar ul li{
+	background:lightblue;
+	width:70%;
+	margin:10px auto 25px;
+	padding:20px 10px;
+}
+
+#nav-bar ul li a{
+	color:white;
+}
+
+
+#c-info {
+	margin:0;
+	padding:30px;
+}
+
+/* main body */
+
+.intro {
+	text-align:center;
+	border-bottom: 2px solid black;
+	margin:0 30px;
+}
+
+.intro h2 {
+	margin:0;
+	padding:40px;
+	font-family:cursive;
+}
+
+#intro-title{
+	text-align: center;
+	margin-top: 60px;
+}
+
+#about {
+	margin:0;
+	padding:50px;
+	text-align:left;
+}
+
+#prof-pic {
+	margin:0;
+	padding:50px;
+	text-align:center;
+}
+
+.menus{
+	margin:0 30px;
+	padding: 40px;
+}
+
+.block{
+	margin:0;
+	padding:30px;
+}
+
+h3{
+	color:white;
+	text-align:center;
+	
+}
+
+#menu-1{
+	border-bottom: 10px solid navy;
+	padding:0;
+}
+
+.bg-1{
+	background:navy;
+}
+
+#menu-2{
+	border-bottom: 10px solid grey;
+	padding:0;
+}
+
+.bg-2{
+	background:grey;
+}
+
+#menu-3{
+	border-bottom: 10px solid green;
+	padding:0;
+}
+
+.bg-3{
+	background:green;
+}
+
+#s-ul{
+	color:navy;
+}
+
+#a-ul{
+	color:grey;
+}
+
+#p-ul{
+	color:green;
+}
+
+.ul li{
+	padding:5px;
+	margin:5px;
+}
+
+/*footer*/
+
+.footer{
+	text-align:center;
+	margin:0;
+	padding:20px;
+}
+
+/* universal */
+
+
+.lighter{
+	color:grey;
+}
+
+a {
+	text-decoration:none;
+}
